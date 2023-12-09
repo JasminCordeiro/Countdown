@@ -1,0 +1,70 @@
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+    font-family: 'Poppins', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+
+.main{
+    width: 100%;
+    height: 100vh;
+    background: url(../images/wallpaperflare.com_wallpaper.jpg) center center;
+    background-size: cover;
+    
+}
+
+.overlay{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(0,0,0,0.5);
+}
+.title{
+    margin-top: 10px;
+    color: white;
+    text-align: center;
+    font-size: 2.5rem;
+    
+}
+.title1{
+    margin-top: 10px;
+    color: white;
+    text-align: center;
+    font-size: 2.5rem;
+    padding-bottom: 24px;
+    
+}
+.col{
+    margin-top: 20px;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.col div{
+    width: 250px;
+    text-align: center;
+
+}
+
+
+input{
+    margin-top: 10px;
+    width: 50%;
+    background-color: transparent;
+    border-color: transparent;
+    height: 50px;
+    text-align: center;
+    font-size: 45px;
+    color: aliceblue;
+    
+}
+
+
