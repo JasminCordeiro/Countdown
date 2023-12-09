@@ -3,9 +3,7 @@ const endDate = "24 December 2023 00:00 PM"
 
 document.getElementById("end-date").innerText = endDate; 
 const inputs = document.querySelectorAll("input")
-// const clock = () => {
-    
-// }
+
 
 function clock() {
     const end = new Date(endDate)
