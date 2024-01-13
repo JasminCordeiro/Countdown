@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-const endDate = "24 December 2023 00:00 PM"
+const endDate = "24 December 2024 00:00 PM"
 
 document.getElementById("end-date").innerText = endDate; 
 const inputs = document.querySelectorAll("input")
