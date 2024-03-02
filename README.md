@@ -1,6 +1,6 @@
 # README - Countdown para o Natal
 
-Este projeto consiste em uma simples aplicação de contagem regressiva para o Natal.
+Este projeto consiste em uma simples aplicação de contagem regressiva para o Natal, usando HTML/CSS e JavaScript.
 
 ## Funcionalidade
 
